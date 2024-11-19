@@ -51,7 +51,7 @@ button:hover {
   border-radius: 4px;
   text-align: center;
   color: blue;
-  font-weight: bold;
+  font-weight: bolder;
 }
 .logo {
   text-decoration: underline;
