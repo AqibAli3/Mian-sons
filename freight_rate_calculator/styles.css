@@ -11,10 +11,11 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
 }
-h1 {
-  color: #4caf50;
-  text-align: center;
-}
+  h1 {
+    color: #4caf50;
+    text-align: center;
+    font-style: oblique;
+  }
 form {
   display: flex;
   flex-direction: column;
