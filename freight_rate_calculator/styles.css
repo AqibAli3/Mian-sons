@@ -24,6 +24,7 @@ label {
   margin: 10px 0 5px 0;
   color: #1a73e8;
   font-weight: bold;
+  font-style: oblique;
 }
 input[type="number"] {
   padding: 10px;
